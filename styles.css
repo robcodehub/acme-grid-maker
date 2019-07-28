@@ -1,3 +1,23 @@
 body {
-  background-color: blue;
+  background-color: lightgray;
+}
+
+h1 {
+  font-family: verdana;
+}
+
+div {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+}
+
+
+input {
+  height: 2rem;
+}
+
+button {
+  height: 2rem;
 }
